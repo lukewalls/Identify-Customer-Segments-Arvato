@@ -1,6 +1,6 @@
 # Identify Customer Segments with Arvato
 
-This project is focused around unsupervised learning techniques. In it Bertelsmann partners AZ Direct and Arvato Financial Solutions have provided two datasets one with demographic information of Germany and the other with that same demographic information but for customers of a mail-order sales company. I preprocess the data, perform dimensionality reduction using PCA, impliment KMeans clustering, and compare existing customers to the general population.
+This project is focused around unsupervised learning techniques. In it Bertelsmann partners AZ Direct and Arvato Financial Solutions have provided two datasets one with demographic information of Germany and the other with that same demographic information but for customers of a mail-order sales company. I preprocess the data, perform dimensionality reduction using PCA, implement KMeans clustering, and compare existing customers to the general population.
 
 The data used in this project was not published due to licensing and Arvato's terms and conditions.
 
